@@ -1,4 +1,4 @@
-## Practice: Herencia 
+## Practice: Sugerencia Videos 
 Ejercicios de practica de un sitio web que muestra sugerencias de videos, para ello usamos polimorfismo y patrones de modulo.
 
 **Web:** [https://leonardoaceituno.github.io/Practice-SugerenciaVideos/](https://leonardoaceituno.github.io/Practice-SugerenciaVideos/)
